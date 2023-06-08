@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "platano largo",
+        "description": "fruta comestible",
+        "price": 5,
+        "thumnail": "/",
+        "code": 9,
+        "stock": 18,
+        "color": "negro"
+    },
+    {
+        "title": "platano",
+        "description": "fruta comestible",
+        "price": 5,
+        "thumnail": "/",
+        "code": 6,
+        "stock": 18,
+        "color": "negro",
+        "id": 2
+    },
+    {
+        "id": 3,
+        "title": "platano largo",
+        "description": "fruta comestible",
+        "price": 5,
+        "thumnail": "/",
+        "code": 9,
+        "stock": 18,
+        "color": "negro"
+    },
+    {
+        "title": "platano",
+        "description": "fruta comestible",
+        "price": 5,
+        "thumnail": "/",
+        "code": 6,
+        "stock": 18,
+        "color": "negro",
+        "id": 4
+    },
+    {
+        "id": 5,
+        "title": "platano largo",
+        "description": "fruta comestible",
+        "price": 5,
+        "thumnail": "/",
+        "code": 9,
+        "stock": 18,
+        "color": "negro"
+    },
+    {
+        "title": "platano",
+        "description": "fruta comestible",
+        "price": 5,
+        "thumnail": "/",
+        "code": 6,
+        "stock": 18,
+        "color": "negro",
+        "id": 6
+    }
+]

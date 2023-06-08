@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "title": "platano largo",
+        "description": "fruta comestible",
+        "code": 9,
+        "price": 5,
+        "status": true,
+        "stock": 18,
+        "category": "frutas",
+        "thumnail": "/"
+    },
+    {
+        "id": 2,
+        "title": "platano largo",
+        "description": "fruta comestible",
+        "code": 9,
+        "price": 5,
+        "status": true,
+        "stock": 18,
+        "category": "frutas",
+        "thumnail": "/"
+    },
+    {
+        "id": 4,
+        "title": "Sandia Melon",
+        "description": "fruta comestible",
+        "code": 9,
+        "price": 5,
+        "status": false,
+        "stock": 18,
+        "category": "frutas",
+        "thumnail": "/"
+    },
+    {
+        "id": 5,
+        "title": "Manzana verde",
+        "description": "fruta comestible",
+        "code": 9,
+        "price": 5,
+        "status": false,
+        "stock": 18,
+        "category": "frutas",
+        "thumnail": "/"
+    },
+    {
+        "id": 6,
+        "title": "platano largo",
+        "description": "fruta comestible",
+        "code": 9,
+        "price": 5,
+        "status": true,
+        "stock": 18,
+        "category": "frutas",
+        "thumnail": "/"
+    },
+    {
+        "id": 7,
+        "title": "platano largo",
+        "description": "fruta comestible",
+        "code": 9,
+        "price": 5,
+        "status": false,
+        "stock": 18,
+        "category": "frutas",
+        "thumnail": "/"
+    },
+    {
+        "title": "Banana",
+        "description": "Juguete de banana",
+        "code": "100005677",
+        "price": 23,
+        "status": true,
+        "stock": 50,
+        "category": "Juguetes",
+        "thumnail": "/",
+        "id": 8
+    },
+    {
+        "title": "Fresa",
+        "description": "Juguete de banana",
+        "code": "100005678",
+        "price": 23,
+        "status": true,
+        "stock": 50,
+        "category": "Juguetes",
+        "thumnail": "/",
+        "id": 9
+    },
+    {
+        "title": "Pacay",
+        "description": "Juguete de banana",
+        "code": "100005679",
+        "price": 23,
+        "status": true,
+        "stock": 50,
+        "category": "Juguetes",
+        "thumnail": "/",
+        "id": 10
+    },
+    {
+        "title": "Naranja",
+        "description": "Juguete de banana",
+        "code": "100005690",
+        "price": 23,
+        "status": true,
+        "stock": 50,
+        "category": "Juguetes",
+        "thumnail": "/",
+        "id": 11
+    }
+]
